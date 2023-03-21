@@ -1,0 +1,9 @@
+table {
+    width: 100%; 
+    background: white;
+    color: rgb(168, 9, 9); 
+    border-spacing: 2px;
+   }
+   td, th {text-align: center;
+    padding: 5px;
+   }
